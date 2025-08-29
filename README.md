@@ -95,3 +95,20 @@ Output: Validated requirements ready for design and development.
 
   1. Performance & Low Latency
   2. Scalability & Reliability
+
+  ## USE CASE DIAGRAMS
+
+  They visually represent the interactions between users (called actors) and a system to achieve specific goals or tasks
+
+  - Benefit of use case diagrams
+
+  * Clarify requirements:
+    They help identify and document functional requirements early in the development process
+
+  * Define System Scope:
+    By showing what’s inside and outside the system, they help teams understand boundaries and responsibilities.
+
+  * Simplify Complexity:
+    They break down large systems into manageable chunks of functionality, making it easier to design and develop.
+
+Link to use case diagram ![Booking System Use Case](./alx-booking-uc.png)
