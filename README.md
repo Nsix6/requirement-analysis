@@ -69,3 +69,29 @@ How it’s done:
 - Validation against business goals.
 
 Output: Validated requirements ready for design and development.
+
+## Types of Requirements.
+
+- Functional Requirements:
+  Functional requirements specify what the system should do. They describe tasks, services, and system behavior.
+
+  Examples include:
+
+  1. Hotel Management Service
+
+  - Add or Update hot information
+  - Upload changes propagated to downstream services via messaging queues and CDN — this supports real-time updates.
+
+  2. Customer Service (Search & Booking)
+
+  - Search hotels — using ElasticSearch to retrieve listings based on customer queries.
+    Book hotels — the booking service handles reservations and interacts with payment processors.
+
+  ## Non-functional requirements
+
+  Definition: Non-functional requirements specify how the system should perform—its quality attributes like performance, scalability, security, etc.
+
+  Examples Include:
+
+  1. Performance & Low Latency
+  2. Scalability & Reliability
