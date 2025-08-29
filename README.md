@@ -112,3 +112,11 @@ Output: Validated requirements ready for design and development.
     They break down large systems into manageable chunks of functionality, making it easier to design and develop.
 
 Link to use case diagram ![Booking System Use Case](./alx-booking-uc.png)
+
+## Acceptance Criteria.
+
+- Importance of acceptance criterria
+
+* Improve quality by setting clear expectations.
+* Boost user satisfaction by delivering what was promised.
+* Prevent misunderstandings between teams.
